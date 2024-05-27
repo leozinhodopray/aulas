@@ -1,1 +1,9 @@
-.esquerda[]
+.centro{
+    text-align: center;
+}
+.esquerda{
+    text-align: left;
+}
+.direita{
+    text-align: right;
+}
